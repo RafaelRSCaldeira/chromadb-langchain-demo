@@ -1,0 +1,15 @@
+[project]
+name = "chromadb-langchain-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.0.15",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
+    "langchain-openai>=0.3.28",
+    "openai>=1.97.0",
+    "pypdf>=5.8.0",
+    "tiktoken>=0.9.0",
+]
