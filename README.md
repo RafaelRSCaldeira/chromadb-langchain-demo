@@ -11,7 +11,7 @@ Este projeto realiza **ingestão e busca semântica em documentos PDF** utilizan
 
 ## ⚙️ Requisitos
 
-* Python 3.8+
+* Python 3.12+
 * Uma conta e chave de API da OpenAI
 
 ## 📦 Instalação
